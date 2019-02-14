@@ -37,7 +37,7 @@
     "glue": "3.3.0",
     "good": "7.0.1",
     "good-console": "6.1.2",
-    "handlebars": "^3.0.0",
+    "handlebars": "^4.0.13",
     "hapi": "13.5.0",
     "hapi-auth-cookie": "^3.0.1",
     "highlight.js": "^8.7.0",
