@@ -40,7 +40,7 @@
     "handlebars": "^3.0.0",
     "hapi": "13.5.0",
     "hapi-auth-cookie": "^3.0.1",
-    "highlight.js": "^8.7.0",
+    "highlight.js": "^9.18.2",
     "hoek": "^4.0.1",
     "inert": "4.0.1",
     "joi": "^5.1.0",
