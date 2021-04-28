@@ -31,7 +31,7 @@
     "bell": "^3.0.0",
     "blipp": "^2.0.1",
     "boom": "^2.8.0",
-    "confidence": "^1.0.0",
+    "confidence": "^5.0.1",
     "debug": "^2.2.0",
     "dotenv": "2.0.0",
     "glue": "3.3.0",
